@@ -1,0 +1,2 @@
+This is a guessing game with a GUI, coded using python. The programme randomly generates a number, depending on the difficulty (easy, medium, hard) you set, and you must
+guess the correct number. The programme offers you hints to let you know if your guess was too low or too high, telling you that the number you entered was cold or warm. 
